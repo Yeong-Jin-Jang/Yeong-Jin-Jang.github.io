@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Yeong Jin Jang"
 description              : "벌꿀 오소리의 공부일지"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://yeong-jin-jang.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -102,13 +102,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Yeong Jin Jang"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "벌꿀오소리의 공부일지"
+  location         : "Seoul, South Korea"
   email            :
   links:
-    - label: "Email"
+    - label: "jiuoo3@naver.com"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
     - label: "Website"
