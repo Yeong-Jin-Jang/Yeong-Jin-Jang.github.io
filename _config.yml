@@ -20,7 +20,7 @@ title                    : "벌꿀오소리의 공부일지 🦡"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "장영진"
-description              : "연세대학교 경영학과<br>Information system 전공 석사과정<br>머신러닝/추천시스템/데이터분석"
+description              : "공부는 벌꿀오소리처럼"
 url                      : "https://yeong-jin-jang.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -104,7 +104,7 @@ analytics:
 author:
   name             : "Yeong Jin Jang"
   avatar           : "/assets/profile-photo.jpg"
-  bio              : "연세대학교 경영학과<br>Information system 전공 석사과정<br>머신러닝/추천시스템/데이터분석"
+  bio              : "연세대학교 경영학과 Information system 전공 석사과정 머신러닝/추천시스템/데이터분석"
   location         : "Seoul, South Korea"
   email            :
   links:
